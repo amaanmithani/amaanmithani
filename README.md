@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **amaanmithani/amaanmithani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ I'm a Master's student in Computer Engineering at New York University with a fou
 As a Co-Founder and CTO, I've led product development from concept to launch, gaining real-world user feedback and achieving recognition in major entrepreneurship competitions. I thrive on solving complex problems and am driven to build the next generation of intelligent software.
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/amaanmithani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:am14647@nyu.edu" target="_blank">
