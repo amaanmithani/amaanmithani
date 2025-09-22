@@ -81,26 +81,26 @@ As a Co-Founder and CTO, I've led product development from concept to launch, ga
 <table>
 <tr>
 <td width="50%">
-  <h3>Haven AI Wellness App (Co-Founder & CTO)</h3>
+  <h3>Haven (Co-Founder & CTO)</h3>
   <p>Engineered a privacy-first iOS app to analyze social media data and provide wellness insights. I led our team to become a <b>Top 3 finalist out of 150+ teams</b> at the NYU Stern Entrepreneur Challenge.</p>
-  <a href="LINK_TO_YOUR_HAVEN_SHOWCASE_REPO"><b>Learn More ➡️</b></a>
+  <a href="https://github.com/amaanmithani/Haven_app"><b>Learn More ➡️</b></a>
 </td>
 <td width="50%">
   <h3>Interactive Chat Avatar with LLMs</h3>
   <p>A personal project creating a real-time, interactive avatar powered by LLaMA, SadTalker for animation, and ElevenLabs for voice synthesis. The avatar responds to user input with natural language and realistic facial expressions.</p>
-  <a href="LINK_TO_YOUR_CHAT_AVATAR_REPO"><b>View Code ➡️</b></a>
+  <a href="https://github.com/amaanmithani/chat_avatar_llm"><b>View Code ➡️</b></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
   <h3>Hybrid Optimization of NLP & Vision Transformers</h3>
   <p>My published research and implementation demonstrating up to a <b>10x reduction in model size</b> for NLP and Vision Transformers with minimal accuracy drop, using techniques like Recurrent KD and QLoRA.</p>
-  <a href="LINK_TO_YOUR_TRANSFORMER_PAPER_REPO"><b>View Code & Paper ➡️</b></a>
+  <a href="https://github.com/amaanmithani/RKD_BERT_VIT"><b>View Code & Paper ➡️</b></a>
 </td>
 <td width="50%">
   <h3>Car Damage Detection & Classification</h3>
   <p>A published research project introducing a deep learning pipeline to classify car damage for the insurance industry. The model achieved <b>95.9% classification accuracy</b> using DenseNet201 and YOLOv3 for precise damage categorization.</p>
-  <a href="LINK_TO_YOUR_CAR_DAMAGE_REPO"><b>View Code & Paper ➡️</b></a>
+  <a href="https://github.com/amaanmithani/CarDamageClassification"><b>View Code & Paper ➡️</b></a>
 </td>
 </tr>
 </table>
