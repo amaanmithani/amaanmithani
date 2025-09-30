@@ -81,7 +81,7 @@ As a Co-Founder and Founding Engineer, I've led product development from concept
 <table>
 <tr>
 <td width="50%">
-  <h3>Haven (Co-Founder & CTO)</h3>
+  <h3>Haven (Co-Founder & Founding Engineer)</h3>
   <p>Engineered a privacy-first iOS app to analyze social media data and provide wellness insights. I led our team to become a <b>Top 3 finalist out of 150+ teams</b> at the NYU Stern Entrepreneur Challenge.</p>
   <a href="https://github.com/amaanmithani/Haven_app"><b>Learn More ➡️</b></a>
 </td>
