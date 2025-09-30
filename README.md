@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a Master's student in Computer Engineering at New York University with a founder's mindset and a passion for building end-to-end, AI-powered products. My experience spans the full product lifecycle, from architecting scalable cloud systems to deploying production-level machine learning models that deliver measurable business impact.
 
-As a Co-Founder and CTO, I've led product development from concept to launch, gaining real-world user feedback and achieving recognition in major entrepreneurship competitions. I thrive on solving complex problems and am driven to build the next generation of intelligent software.
+As a Co-Founder and Founding Engineer, I've led product development from concept to launch, gaining real-world user feedback and achieving recognition in major entrepreneurship competitions. I thrive on solving complex problems and am driven to build the next generation of intelligent software.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amaanmithani/" target="_blank">
